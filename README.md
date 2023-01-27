@@ -10,7 +10,7 @@ https://blog.csdn.net/qq_37051669/article/details/115324851?spm=1001.2014.3001.5
 
 ติดตั้ง Library ที่จำเป็น
 1. pip install pyzmq
-2. pip install pyzmq
+2. pip install cbor
 
 เข้าไปที่ C:\Program Files\CoppeliaRobotics\CoppeliaSimEdu\system
 เปิดไฟล์ชื่อ  usrset.txt
